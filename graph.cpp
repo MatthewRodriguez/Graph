@@ -108,3 +108,8 @@ void Graph::createLinkedList(int n){
             undirectedEdge(nodes[nodes.size()-2], nodes[nodes.size()-1]);
     }
 }
+
+//1. Very good code, everything meets industry standards.
+//2. Portable as well. 
+//3. I talked to professor Rengesh, I don't think random is necessary for createRandomUnweightedGraphIter, but don't quote me on that.
+//4. Very clever use of doing .next and .prev without .next and .prev on Linked Lists.
