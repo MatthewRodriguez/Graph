@@ -24,3 +24,6 @@ int main(int argc, const char * argv[]) {
     cout << endl;
     return 0;
 }
+//8. Break these up.
+//9. Try to separate cout(which is a test) to one section and the drivers to another.
+//10. This is the cleanest code I've read. C++ squad HOOAH
