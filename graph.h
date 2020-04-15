@@ -30,3 +30,7 @@ class Graph{
 };
 
 #endif /* graph_h */
+
+//5. Good use of precompiler. Makes for portable code. The header file according to the professor meets industry standards, great job!
+//6. Might want to add a comment on what unordered_set is, since its different from the data type the professor specified, and professor Rengesh doesn't use cpp.
+//7. Why did we include ctime? 
